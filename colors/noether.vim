@@ -102,6 +102,9 @@ hi pythonExClass    guifg=#996666 guibg=NONE gui=NONE
 hi pythonDecorator  guifg=#888555 guibg=NONE gui=NONE
 hi link pythonDecoratorFunction pythonDecorator
 
+" ctrl p
+hi CtrlPNoEntries guifg=#ffffff guibg=#ff6a6a gui=NONE
+
 " 256 colour terminal scheme
 hi Normal                 cterm=NONE             ctermbg=235   ctermfg=145
 hi ColorColumn            cterm=NONE             ctermbg=237   ctermfg=fg
