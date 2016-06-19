@@ -37,6 +37,7 @@ hi FoldColumn   guifg=#68838b guibg=#4B4B4B gui=bold
 hi Folded       guifg=#406060 guibg=#232c2c gui=NONE
 hi IncSearch    guifg=#ffffff guibg=#455354 gui=bold
 hi LineNr       guifg=#bebe9f guibg=#232526 gui=NONE
+hi CursorLineNr guifg=Yellow  guibg=#0d0d0d gui=bold
 hi MatchParen   guifg=#fff000 guibg=#000000 gui=bold
 hi ModeMsg      guifg=#2e8b57 guibg=bg      gui=bold
 hi MoreMsg      guifg=#2e8b57 guibg=bg      gui=bold
