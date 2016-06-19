@@ -32,6 +32,7 @@ hi DiffDelete   guifg=#000000 guibg=#aa4450 gui=NONE
 hi DiffChange   guifg=#000000 guibg=#4f94cd gui=NONE
 hi DiffText     guifg=#000000 guibg=#8ee5ee gui=NONE
 hi Directory    guifg=#1e90ff guibg=bg      gui=NONE
+hi Error        guifg=#ffffff guibg=#ff6a6a gui=NONE
 hi ErrorMsg     guifg=#ff6a6a guibg=NONE    gui=bold
 hi FoldColumn   guifg=#68838b guibg=#4B4B4B gui=bold
 hi Folded       guifg=#406060 guibg=#232c2c gui=NONE
