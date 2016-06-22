@@ -2,8 +2,8 @@
 "
 " URL: github.com/sdawson/noether.vim
 " Author:   Sophie Dawson
-" Version: 0.0.2
-" Last Updated: 2016-06-18
+" Version: 0.0.3
+" Last Updated: 2016-06-22
 "
 " Based on the Sorcerer theme by Jeet Sukumaran, which is based on
 " the Mustang theme by Henrique C. Alves.
